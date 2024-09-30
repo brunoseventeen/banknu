@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#ft {
+    width: 100px;
+    height: 100px;
+    padding: 15px;
+    border-radius: 50px;
+}
+header {
+    background-color: #562783;
+    color: #fff;
+    font-family: "Roboto Mono", monospace;
+    height: 200px;
+}
+h1 { 
+    padding: 15px;
+}
+.btnn {
+background-color:#562783;
+border-color: #fff;
+padding: 10px 35px 10px 35px;
+}
+.btnn:hover {
+    background-color: #fff;
+    color: #562783;
+    border-color: #562783;
+}
+main {
+    text-align: center;
+}
+h3 {
+    color: #562783;
+}
+.col { 
+    padding: 15px;
+    border-radius: 15px;
+}
+.inpt {
+    border-radius: 15px;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+::placeholder {
+    text-align: center;
+    color: #562783;
+}
+.btn8 {
+    padding: 5px 25px;
+    border-radius: 15px;
+    margin-top: 5px;
+    background-color:#562783;
+    border-color: #fff;
+    color: #fff;
+}
+.btn8:hover {
+    background-color: #fff;
+    color: #562783;
+    border-color: #562783;
+}
+#saldo {
+    color: #562783;
+    font-size: 35px;
+}
+#telo {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    background-color: #562783;
+}
